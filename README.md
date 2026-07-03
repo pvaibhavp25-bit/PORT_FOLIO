@@ -19,4 +19,4 @@ This portfolio project was created as a frontend web development project to show
 Vaibhav P
 
 
-DEPLOYED LINK--- " "
+DEPLOYED LINK--- "https://pvaibhavp25-bit.github.io/PORT_FOLIO/"
